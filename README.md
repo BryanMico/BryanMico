@@ -6,6 +6,8 @@
 
 Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a **Full Stack Developer** from the Philippines with a strong passion for coding and creating innovative solutions. I specialize in building **web and mobile applications** and enjoy working with modern technologies like **React**, **Node.js**, **Laravel**, and more. I am currently completing my **Bachelor of Science in Information Technology** at **Wesleyan University-Philippines**.
 
+Check out my **[Portfolio Website](https://js-portfolio-drab.vercel.app/)** to learn more about me and my work.
+
 ---
 
 ### 🌱 **About Me**
@@ -40,7 +42,7 @@ Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a **Full Stack Develop
 ---
 
 ### 📂 **Featured Projects**
-- **[ChaTy](https://chaty-678j.onrender.com/)** - A **MERN Stack** chat application with **Socket.IO**.
+- **[ChaTy](https://chaty-7y8v.onrender.com/)** - A **MERN Stack** chat application with **Socket.IO**.
 - **[CookDO](https://cook-do.vercel.app/)** - A **React** cooking recipe web app with API integration.
 
 ---
@@ -52,9 +54,7 @@ Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a **Full Stack Develop
 ---
 
 ### ⚡ **Fun Facts**
-- I love to solve coding challenges on platforms like **LeetCode** and **HackerRank**.
 - When I'm not coding, you can find me playing games, especially in the **MMORPG** genre.
-
 ---
 
 © 2025 **Bryan Mico Baril**. All rights reserved.
