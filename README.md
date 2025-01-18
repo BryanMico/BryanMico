@@ -33,7 +33,7 @@ Check out my **[Portfolio Website](https://js-portfolio-drab.vercel.app/)** to l
 ---
 
 ### 🔗 **Connect with Me**
-- 📫 [Email me](mailto:bryan.mico.baril@example.com)
+- 📫 [Email me](mailto:imbryanmicobaril@gmail.com)
 - 🌐 [Instagram](https://www.instagram.com/bryan_hisooo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bryan-mico-baril-61611627a/)
 - 🧑‍💻 [GitHub](https://github.com/BryanMico)
