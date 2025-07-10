@@ -18,17 +18,18 @@ Check out my **[Portfolio Website](https://js-portfolio-drab.vercel.app/)** to l
 ---
 
 ### 🛠️ **Technologies & Tools**
+
 **Frontend:**
 - HTML, CSS, JavaScript, React, Angular, Next.js
 
 **Backend:**
-- Node.js, PHP, Ruby, Laravel
+- Node.js, PHP, Ruby, Laravel, **ASP.NET MVC**
 
 **Databases:**
-- MongoDB, MySQL
+- MongoDB, MySQL, **SQL Server Express**
 
 **Tools:**
-- Git, Docker, Postman
+- Git, Docker, Postman, Visual Studio, SQL Server Management Studio (SSMS)
 
 ---
 
