@@ -4,17 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BryanMico?style=social)](https://github.com/BryanMico)
 
-Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a **Full Stack Developer** from the Philippines with a strong passion for coding and creating innovative solutions. I specialize in building **web and mobile applications** and enjoy working with modern technologies like **React**, **Node.js**, **Laravel**, and more. I am currently completing my **Bachelor of Science in Information Technology** at **Wesleyan University-Philippines**.
-
+Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a **Full Stack Developer** from the Philippines with a strong passion for coding and creating innovative solutions. I specialize in building **web and mobile applications**.
 Check out my **[Portfolio Website](https://js-portfolio-drab.vercel.app/)** to learn more about me and my work.
-
----
-
-### 🌱 **About Me**
-- 🔭 I’m currently working on a **React Native mobile application** called **QuizQuest**, which focuses on interactive learning and gamification.
-- 🌱 I’m also learning **Machine Learning** and **AI** to further enhance my problem-solving capabilities.
-- 👯 I’m open to collaborating on projects and looking for new opportunities to grow and learn.
-
 ---
 
 ### 🛠️ **Technologies & Tools**
