@@ -1,58 +1,63 @@
 # Bryan Mico Baril 👋
 
-**Full Stack Developer** | **IT Student** | **Tech Enthusiast**
+**Full Stack Developer (ASP.NET MVC)**  
+IT Student | Problem Solver
 
 [![GitHub followers](https://img.shields.io/github/followers/BryanMico?style=social)](https://github.com/BryanMico)
 
-Welcome to my GitHub profile! I’m **Bryan Mico Baril**, a passionate **Full Stack Developer** from the Philippines specializing in building modern **web and mobile applications**. I enjoy crafting efficient, scalable solutions and continuously expanding my skills.
+---
 
-Feel free to explore my work and learn more about me on my **[Portfolio Website](https://js-portfolio-drab.vercel.app/)**.
+Hi, I’m Bryan, a Full Stack Developer from the Philippines.  
+I build scalable, maintainable web applications using ASP.NET MVC with layered architecture.
+
+I work across the full stack:  
+- Writing SQL Server stored procedures  
+- Designing clean Business, Common, and DataAccess layers  
+- Creating responsive UIs with Razor Views, Bootstrap, and DataTables  
 
 ---
 
-### 🛠️ Technologies & Tools
-
-**Frontend:**  
-HTML, CSS, JavaScript, React, Angular, Next.js
+## Technologies I Use
 
 **Backend:**  
-Node.js, PHP, Ruby, Laravel, **ASP.NET MVC**
+- ASP.NET MVC  
+- Entity Framework  
+- SQL Server (Stored Procedures)  
+- Web API  
 
-**Databases:**  
-MongoDB, MySQL, **SQL Server Express**
+**Frontend:**  
+- Razor Views  
+- Bootstrap  
+- jQuery / DataTables  
 
-**Tools & Platforms:**  
-Git, Docker, Postman, Visual Studio, SQL Server Management Studio (SSMS)
-
----
-
-### 🔗 Connect with Me
-
-- 📫 [Email](mailto:imbryanmicobaril@gmail.com)  
-- 🌐 [Instagram](https://www.instagram.com/bryan_hisooo)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bryan-mico-baril-61611627a/)  
-- 🧑‍💻 [GitHub](https://github.com/BryanMico)  
-- 💬 [WhatsApp](https://wa.me/+639153447555)
+**Tools:**  
+- Visual Studio  
+- SSMS  
+- Git & GitHub  
+- Postman  
 
 ---
 
-### 📂 Featured Projects
+## Connect with Me
 
-- **[ChaTy](https://chaty-7y8v.onrender.com/)** — A real-time **MERN Stack** chat app powered by **Socket.IO**.  
-- **[CookDO](https://cook-do.vercel.app/)** — A sleek **React** cooking recipe app with API integration.
-
----
-
-### 📈 GitHub Stats
-
-![Bryan Mico Baril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanMico&show_icons=true&theme=radical)
+- 📧 [Email](mailto:imbryanmicobaril@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bryan-mico-baril-61611627a/)  
+- 💻 [GitHub](https://github.com/BryanMico)  
 
 ---
 
-### ⚡ Fun Facts
+## GitHub Stats
 
-When I’m not coding, I’m usually diving into **MMORPG** games and enjoying immersive virtual worlds.
+![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanMico&show_icons=true&theme=radical)
 
 ---
 
-© 2025 **Bryan Mico Baril**. All rights reserved.
+## About Me
+
+I enjoy solving problems by writing clean, efficient code and building tools that help businesses make data-driven decisions.  
+
+When I’m not coding, I enjoy gaming and exploring new technologies.
+
+---
+
+© 2025 Bryan Mico Baril
