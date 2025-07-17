@@ -1,9 +1,6 @@
 # Bryan Mico Baril 👋
 
 **Full Stack Developer (ASP.NET MVC)**  
-IT Student | Problem Solver
-
-[![GitHub followers](https://img.shields.io/github/followers/BryanMico?style=social)](https://github.com/BryanMico)
 
 ---
 
