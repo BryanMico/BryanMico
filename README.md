@@ -35,25 +35,9 @@ I work across the full stack:
 
 ---
 
-## Connect with Me
-
-- 📧 [Email](mailto:imbryanmicobaril@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bryan-mico-baril-61611627a/)  
-- 💻 [GitHub](https://github.com/BryanMico)  
-
----
-
 ## GitHub Stats
 
 ![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanMico&show_icons=true&theme=radical)
-
----
-
-## About Me
-
-I enjoy solving problems by writing clean, efficient code and building tools that help businesses make data-driven decisions.  
-
-When I’m not coding, I enjoy gaming and exploring new technologies.
 
 ---
 
