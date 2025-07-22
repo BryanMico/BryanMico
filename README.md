@@ -35,10 +35,4 @@ I work across the full stack:
 
 ---
 
-## GitHub Stats
-
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanMico&show_icons=true&theme=radical)
-
----
-
 © 2025 Bryan Mico Baril
